@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/itaditya/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/itaditya/ama/issues?q=is%3Aissue+is%3Aclosed)
 
 I get a lot of questions on twitter, fb and whatsapp. Many times, the same question get asked by multiple people so this will save a lot of time.
 
